@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
+- Họ tên: Phạm Đức Việt
+- MSSV: 2A202603265
+- Email: pdviet1909@gmail.com
+- Lớp: L2B
+- Link repo bài làm: https://github.com/phamducviet19/K5-L2B-Day02-PhamDucViet-2A202603265-ObjectDetection.git
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
@@ -17,11 +17,11 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 ## 3. Annotation và self-QC
 
-- Số file nhãn train:
-- Kết quả checker và lỗi đã xử lý:
-- Danh sách ít nhất 10 ảnh đã rà bằng mắt:
+- Số file nhãn train: 50
+- Kết quả checker và lỗi đã xử lý: ĐẠT cấu trúc: 50/50 file nhãn hợp lệ
+- Danh sách ít nhất 10 ảnh đã rà bằng mắt: drive_001.jpg, drive_002.jpg, drive_003.jpg, drive_004.jpg, drive_005.jpg, drive_008.jpg, drive_010.jpg, drive_012.jpg, drive_015.jpg, drive_020.jpg
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
-- Commit khóa nhãn ban đầu:
+- Commit khóa nhãn ban đầu: 
 
 ## 4. Gold QC và rework
 
