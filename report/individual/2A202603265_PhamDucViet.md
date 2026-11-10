@@ -21,7 +21,7 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 - Kết quả checker và lỗi đã xử lý: ĐẠT cấu trúc: 50/50 file nhãn hợp lệ
 - Danh sách ít nhất 10 ảnh đã rà bằng mắt: drive_001.jpg, drive_002.jpg, drive_003.jpg, drive_004.jpg, drive_005.jpg, drive_008.jpg, drive_010.jpg, drive_012.jpg, drive_015.jpg, drive_020.jpg
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
-- Commit khóa nhãn ban đầu: 
+- Commit khóa nhãn ban đầu: daaba43
 
 ## 4. Gold QC và rework
 
